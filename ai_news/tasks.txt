@@ -1,0 +1,6 @@
+1. Create Crew.
+2. Use 3 Tools.
+3. An agent to Google Search Websites.
+4. An agent to Scrape Each Website.
+5. An agent to summarize everything.
+6. Save this to a file.
